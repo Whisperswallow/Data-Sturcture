@@ -1,0 +1,68 @@
+5 5
+1 X 2 T 3 X 0
+3 X 0
+2 X 3 X 0
+2 X 0
+4 X 5 S 0
+
+3 6
+3 S 0
+2 X 3 X 4 X 5 X 0
+3 T 0
+
+2 10
+1 S 2 X 6 X 10 X 0
+4 X 8 X 10 T 0
+
+5 10
+1 S 2 X 6 X 10 T 0
+2 X 4 X 6 X 8 X 9 X 10 X 0
+2 X 4 X 6 X 0
+2 X 4 X 6 X 7 X 8 X 9 X 0
+4 X 0
+
+10 10
+1 S 4 X 0
+2 X 4 X 6 X 7 X 9 X 0
+2 X 4 X 6 X 9 X 0
+2 X 4 X 8 X 9 X 0
+2 X 4 X 6 X 7 X 0
+2 X 4 X 6 X 9 X 0
+2 X 4 X 6 X 8 X 9 X 0
+2 X 4 X 6 X 0
+2 X 4 X 6 X 8 X 9 X 10 X 0
+6 X 10 T 0
+
+14 13
+12 X 0
+2 X 3 X 4 X 5 X 6 X 7 X 8 X 9 X 10 X 11 X 12 X 0
+11 T 12 X 0
+2 X 3 X 4 X 5 X 6 X 7 X 8 X 9 X 10 X 11 X 12 X 0
+2 X 6 X 10 X 12 X 0
+2 X 4 X 6 X 8 X 10 X 12 X 0
+2 X 4 X 8 X 12 X 0
+2 X 3 X 4 X 5 X 6 X 7 X 8 X 9 X 10 X 12 X 0
+12 X 0
+2 X 3 X 4 X 5 X 6 X 7 X 8 X 9 X 11 X 12 X 0
+9 X 10 S 0
+1 X 2 X 3 X 4 X 5 X 6 X 7 X 8 X 9 X 10 X 11 X 12 X 0
+6 X 0
+7 X 9 X 10 X 12 X 0
+
+13 13
+0
+4 S 5 X 12 X 13 X 0
+2 X 4 X 5 X 6 X 7 X 8 X 9 X 10 X 11 X 12 X 0
+9 X 0
+2 X 3 X 4 X 5 X 6 X 7 X 9 X 11 X 12 X 13 X 0
+4 X 9 X 11 X 0
+3 X 5 X 7 X 13 X 0
+7 X 8 X 9 X 10 X 11 X 0
+1 X 2 X 3 X 4 X 5 X 7 X 0
+9 X 10 X 12 X 13 X
+10 X 11 T 12 X 0
+6 X 7 X 9 X 10 X 0
+4 X 6 X 8 X 9 X 10 X 11 X 12 X 13 X 0
+0
+
+0
