@@ -3,7 +3,7 @@ package com.sample;
 import java.util.*;
 
 /*
- * Use Kruskal’s algorithm to compute minimum spanning tree of a weighted graph.
+ * Use Dijkstra Algoritm to find the shortest path for s to t.
  *  author: Z. H. Tsai 
  *  std_id: 0852223
  *  date: 2019/11/14
